@@ -1,5 +1,4 @@
- This code is a To-Do List application is a useful project that helps users manage
-and organize their tasks efficiently. This project aims to create a
-command-line or GUI-based application using Python, allowing
+This is a simple calculator with basic arithmetic operations on real and complex numbers.
+Prompt the user to input two numbers and an operation choice.
 
-users to create, update, and track their to-do lists
+Perform the calculation and display the result.
